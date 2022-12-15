@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CStrong11
-- 👀 I’m interested in web develope
+- 👀 I’m interested in data science
 - 🌱 I’m currently learning programming language
 - 💞️ I’m looking to collaborate on web app
 
